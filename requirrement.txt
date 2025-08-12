@@ -1,0 +1,12 @@
+Flask==2.2.2
+Flask-Cors==3.0.10
+google-genai==0.1.0  # Use the latest version available
+google-ai-generativelanguage==0.1.0  # Use the latest version available
+google-api-core==2.3.0  # Use the latest version available
+google-api-python-client==2.31.0  # Use the latest version available
+google-auth==2.6.0  # Use the latest version available
+protobuf==3.19.1  # Use the latest version available
+pydantic==1.9.0  # Use the latest version available
+tqdm==4.62.3  # Use the latest version available
+typing-extensions==3.10.0.2  # Use the latest version available
+requests==2.26.0  # If you are using requests for HTTP calls
