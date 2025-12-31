@@ -120,7 +120,7 @@ import streamlit as st
 import requests
 import time
 import random
-import openai
+# import openai
 
 # Load external CSS file
 with open("style.css") as css_file:
