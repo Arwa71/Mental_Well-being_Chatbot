@@ -217,3 +217,6 @@ st.sidebar.subheader("📞 Emergency Helplines")
 st.sidebar.write("💙 Need urgent help? Call a professional now.")
 st.sidebar.write("📞 *Mental Health Helpline*: 1800-599-0019")
 st.sidebar.write("🌍 [Find a helpline near you](https://findahelpline.com)")
+if __name__ == "__main__":
+    app.run(host="0.0.0.0", port=5000)
+
